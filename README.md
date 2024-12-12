@@ -1,6 +1,6 @@
 #  Gesture Control Car with Obstacle Detection
 
-![Gesture Control Car](images/project_image.png)
+![Gesture Control Car](image.png)
 
 This project demonstrates a **gesture-controlled car** using a Raspberry Pi Pico microcontroller and a gyroscopic sensor from a mobile device. Equipped with an infrared sensor for real-time obstacle detection, the car ensures a safe and intuitive driving experience.
 
