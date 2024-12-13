@@ -14,8 +14,6 @@ This project demonstrates a **gesture-controlled car** using a Raspberry Pi Pico
 4. [Setup and Installation](#setup-and-installation)
 5. [Testing](#testing)
 6. [Demo](#demo)
-7. [Challenges and Future Work](#challenges-and-future-work)
-8. [License](#license)
 
 ---
 
